@@ -1,5 +1,5 @@
 {
-  "name": "QUEEN-ELISA-MD",
+  "name": "DASA<3",
   "version": "3.3.5",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
@@ -17,7 +17,7 @@
     "multi-device",
     "dark-maker-ofc"
   ],
-  "author": "MR-NIMA",
+  "author": "LEON🖤",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys": "github:darkalphaxteam/baileys",
