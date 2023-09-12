@@ -5,7 +5,7 @@
 
 WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
+WHATSAPP - 918982860407
 WEB SITE - http://queenelisa.42web.io/
 SUPPORT GROUP - https://t.me/queenelisasupport
 YOUTUBE - http://youtube.com/MRNIMAOFC
@@ -52,15 +52,15 @@ global.UPLOAD_MAX = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['265997133051'] 
+global.owner = ['918982860407'] 
 //👇 Your Caption ( Image Video )
 global.cap = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙴𝙻𝙸𝚂𝙰 𝙼𝙰𝚇 𝙱𝙾𝚃*'
 //👇 Your Bot Name
-global.botnma =  '*ELISA MAX BOT*' 
+global.botnma =  '*DASA<3' 
 //👇 Your name
-global.ownernma =  '*AUSTIN MAX*' 
+global.ownernma =  '*LEON🖤*' 
 //👇 Sticker Author Name
-global.packname =  'AUSTIN MAX' 
+global.packname =  'DASA<3' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'Do not text Bot your number will be blocked in 5seconds !!!'
 //👇 Owner React Imoji
@@ -92,9 +92,9 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 Desable PM Block numbers
-global.NO_BLOCK = ["265997133051","94719574492"]
+global.NO_BLOCK = ["918982860407","917861093341"]
 //👇 Desable download words
-global.IMG_BLOCKER = ["xxx","sex","mia"]
+global.IMG_BLOCKER = ["abuse"]
 //👇 Open ai API
 global.CHATGPT_API = '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'
 /*
@@ -138,8 +138,8 @@ global.mess = {
 
 
 //other
-global.pemilik = ['265997133051'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['265997133051'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['918982860407'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['918982860407'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Austin Max' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['.'] 
