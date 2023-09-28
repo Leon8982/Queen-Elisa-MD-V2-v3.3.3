@@ -172,7 +172,7 @@ THANAKS FOR USNING QUEEN ELISA 💃💖
 
 * [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
 
-* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
+* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/IEQW2hgqznF4YGs3UxGVhm)
 
      
        ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
