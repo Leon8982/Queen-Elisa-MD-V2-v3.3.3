@@ -88,10 +88,10 @@
     "lib": "lib",
     "src": "src"
   },
-  "repository": "git+https://github.com/DarkMakerofc/Queen-Elisa-MD-V2.git",
+  "repository": "git+https://github.com/Leon8982/Queen-Elisa-MD-V2-v3.3.3",
   "bugs": {
-    "url": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/issues"
+    "url": "https://github.com/Leon8982/Queen-Elisa-MD-V2-v3.3.3"
   },
-  "homepage": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/#readme",
+  "homepage": "https://github.com/Leon8982/Queen-Elisa-MD-V2-v3.3.3/#readme",
   "main": "index.js"
 }
